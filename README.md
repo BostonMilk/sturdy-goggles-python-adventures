@@ -1,0 +1,2 @@
+# sturdy-goggles-python-adventures
+探索Python编程世界的奇妙旅程！这是一个面向初学者的Python基础教程，通过引人入胜的原神主题案例，让您在轻松愉快的氛围中掌握编程知识。本仓库包含了丰富的Jupyter笔记本资源以及一系列精心设计的学习模块，助您从零开始成为Python高手。🌟🎮
